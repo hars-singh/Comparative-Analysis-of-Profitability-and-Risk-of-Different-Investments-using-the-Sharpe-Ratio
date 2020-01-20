@@ -1,2 +1,3 @@
 # Comparative-Analysis-of-Profitability-and-Risk-of-Different-Investments-using-the-Sharpe-Ratio
-Applied Noble Prize-winning concept, Sharp ratio on S&amp;P 500 data set. Proved that investing in Amazon’s stocks was better than that of Facebook for a specific time interval.
+
+When you assess whether to invest in an asset, you want to look not only at how much money you could make but also at how much risk you are taking. The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago, does precisely this: it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns.
